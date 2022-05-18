@@ -1,0 +1,19 @@
+Name : Chinna Venkateswarlu
+
+yum install git -y
+
+
+git init
+
+git clone url
+
+mkdir venkat
+
+git add
+
+git commit -m "this first comit"
+
+
+git push origin master
+
+
